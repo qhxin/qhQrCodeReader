@@ -6,6 +6,10 @@
 1. PHP >= 5.4
 2. GD Library
 
+## 注意
+
+这个库目前来看稳定可用，由于我精力没放在PHP了，这个库的新需求暂时就不处理了，欢迎fork。
+
 # qhQrCodeReader
 
 In my test of using [php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder) to decode qrcode, i found that the success rate is not very high. So based on some of my practice,i wrote this gadget. It greatly improving the success rate of recognition. If you have some suggestions for optimization, please fork and commit.
@@ -14,3 +18,7 @@ In my test of using [php-qrcode-detector-decoder](https://github.com/khanamiryan
 
 1. PHP >= 5.4
 2. GD Library
+
+## Notice
+
+This library is currently stable and available. Since my energy is not in PHP, the new requirements of this library will not be processed for the time being. Welcome to fork.
